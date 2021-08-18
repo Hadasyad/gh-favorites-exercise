@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Pizza 
 Ice cream 
 Fries
+=======
+Harry poter 
+molan 
+24 
+>>>>>>> movies
